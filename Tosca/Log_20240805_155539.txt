@@ -1,0 +1,73 @@
+[3] 3:55:39 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\Tosca\Tosca.tws'
+[3] 3:55:39 PM: Log level: 4
+[3] 3:55:39 PM: Release: 23.2.3.3399
+[3] 3:55:39 PM: Execution Approval is disabled.
+[3] 3:55:39 PM: No service discovery configured.
+[3] 3:55:39 PM:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 23.2.3.3399 (3399)
+[3] 3:55:39 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 23.2.3.3399 (3399)
+[3] 3:55:39 PM:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 23.2.3.3399 (3399)
+[3] 3:55:39 PM:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 23.2.3.3399 (3399)
+[3] 3:55:39 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 23.2.3.3399 (3399)
+[3] 3:55:39 PM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 23.2.3.3399 (3399)
+[3] 3:55:39 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 23.2.3.3399 (3399)
+    + : SAPSolutionManagerIntegration 23.2.3.3399 (3399)
+[3] 3:55:39 PM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 3:55:39 PM: Searcher found 0 results in 149.9326 ms
+[3] 3:55:39 PM:  + OptIntAddIn: OptIntAddIn 23.2.3.3399 (3399)
+[3] 3:55:39 PM:  + QTestIntegrationAddIn: QTestIntegrationAddIn 23.2.3.3399 (3399)
+[3] 3:55:39 PM:  + RemoteControl: RemoteControlAddIn 23.2.3.3399 (3399)
+[3] 3:55:39 PM:  + Reporting: ReportingAddIn 23.2.3.3399 (3399)
+[3] 3:55:39 PM:  + ReportingUI: ReportingUIAddIn 23.2.3.3399 (3399)
+[3] 3:55:39 PM:  + RequirementsManagementAddIn: RequirementsManagement 23.2.3.3399 (3399)
+[3] 3:55:39 PM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 23.2.3.3399 (3399)
+[3] 3:55:39 PM:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 23.2.3.3399 (3399)
+[3] 3:55:39 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 23.2.3.3399 (3399)
+[3] 3:55:39 PM:  + TestCaseDesign: TestCaseDesign 23.2.3.3399 (3399)
+[3] 3:55:39 PM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 23.2.3.3399 (3399)
+[3] 3:55:39 PM:  + XDefinitions: XDefinitions 23.2.3.3399 (3399)
+[3] 3:55:39 PM:  + XDefinitionsUI: XDefinitionsUI 23.2.3.3399 (3399)
+[3] 3:55:39 PM: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\Tosca\Tosca.tws'
+[2] 3:55:40 PM: CommanderAssemblyResolver: Unable to resolve: System.XmlSerializers, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+[4] 3:55:45 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 3:55:45 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 3:55:45 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 3:55:45 PM:  ShowStatusInfo: 'Ready'
+[4] 3:55:45 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 3:55:45 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 3:55:45 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 3:55:45 PM:  ShowStatusInfo: 'Ready'
+[4] 3:55:45 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 3:55:45 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 3:55:46 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 3:55:46 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 3:55:46 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 3:55:46 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 3:55:46 PM:  ShowStatusInfo: 'Ready'
+[4] 3:55:46 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 3:55:46 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 3:55:46 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 3:55:46 PM:  ShowStatusInfo: 'Ready'
+[4] 3:55:46 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 3:55:46 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 3:55:46 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 3:55:46 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 3:55:46 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 3:55:46 PM:  ShowStatusInfo: 'Ready'
+[4] 3:55:46 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 3:55:46 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 3:55:46 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 3:55:46 PM:  ShowStatusInfo: 'Ready'
+[4] 3:55:46 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 3:55:46 PM:  ShowStatusInfo: 'Refresh all finished'
+[3] 3:55:46 PM: OpenWorkspace took 00:00:09.3463145 to finish
+[2] 3:55:46 PM: Common repository is not available
+[4] 3:55:48 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 3:55:48 PM:  ShowStatusInfo: 'Ready'
+[4] 3:55:48 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 3:55:48 PM:  ShowStatusInfo: 'Ready'
+[4] 3:55:48 PM:  ShowStatusInfo: 'Refresh view finished'
+[4] 3:55:51 PM:  ShowStatusInfo: 'Ready'
+[4] 3:55:52 PM:  ShowStatusInfo: '1 object selected'
+[4] 3:55:53 PM:  ShowStatusInfo: 'Ready'
+[4] 3:55:53 PM:  ShowStatusInfo: '1 object selected'
+[4] 3:55:58 PM:  ShowStatusInfo: 'Ready'

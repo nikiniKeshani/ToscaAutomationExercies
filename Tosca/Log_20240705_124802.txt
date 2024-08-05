@@ -1,0 +1,102 @@
+[3] 12:48:02 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\Tosca\Tosca.tws'
+[3] 12:48:02 PM: Log level: 4
+[3] 12:48:02 PM: Release: 23.2.3.3399
+[3] 12:48:02 PM: Execution Approval is disabled.
+[3] 12:48:02 PM: No service discovery configured.
+[3] 12:48:02 PM:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 23.2.3.3399 (3399)
+[3] 12:48:02 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 23.2.3.3399 (3399)
+[3] 12:48:02 PM:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 23.2.3.3399 (3399)
+[3] 12:48:02 PM:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 23.2.3.3399 (3399)
+[3] 12:48:02 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 23.2.3.3399 (3399)
+[3] 12:48:02 PM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 23.2.3.3399 (3399)
+[3] 12:48:02 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 23.2.3.3399 (3399)
+    + : SAPSolutionManagerIntegration 23.2.3.3399 (3399)
+[3] 12:48:02 PM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 12:48:02 PM: Searcher found 0 results in 66.9622 ms
+[3] 12:48:02 PM:  + OptIntAddIn: OptIntAddIn 23.2.3.3399 (3399)
+[3] 12:48:02 PM:  + QTestIntegrationAddIn: QTestIntegrationAddIn 23.2.3.3399 (3399)
+[3] 12:48:02 PM:  + RemoteControl: RemoteControlAddIn 23.2.3.3399 (3399)
+[3] 12:48:02 PM:  + Reporting: ReportingAddIn 23.2.3.3399 (3399)
+[3] 12:48:02 PM:  + ReportingUI: ReportingUIAddIn 23.2.3.3399 (3399)
+[3] 12:48:02 PM:  + RequirementsManagementAddIn: RequirementsManagement 23.2.3.3399 (3399)
+[3] 12:48:02 PM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 23.2.3.3399 (3399)
+[3] 12:48:02 PM:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 23.2.3.3399 (3399)
+[3] 12:48:02 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 23.2.3.3399 (3399)
+[3] 12:48:03 PM:  + TestCaseDesign: TestCaseDesign 23.2.3.3399 (3399)
+[3] 12:48:03 PM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 23.2.3.3399 (3399)
+[3] 12:48:03 PM:  + XDefinitions: XDefinitions 23.2.3.3399 (3399)
+[3] 12:48:03 PM:  + XDefinitionsUI: XDefinitionsUI 23.2.3.3399 (3399)
+[3] 12:48:03 PM: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\Tosca\Tosca.tws'
+[2] 12:48:03 PM: CommanderAssemblyResolver: Unable to resolve: System.XmlSerializers, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+[4] 12:48:07 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:48:07 PM:  ShowStatusInfo: 'Ready'
+[4] 12:48:07 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:48:07 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:48:07 PM:  ShowStatusInfo: 'Ready'
+[4] 12:48:07 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:48:07 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:48:07 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:48:08 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:48:08 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:48:08 PM:  ShowStatusInfo: 'Ready'
+[4] 12:48:08 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:48:08 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:48:08 PM:  ShowStatusInfo: 'Ready'
+[4] 12:48:08 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:48:08 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:48:08 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:48:08 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:48:08 PM:  ShowStatusInfo: 'Ready'
+[4] 12:48:08 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:48:08 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:48:08 PM:  ShowStatusInfo: 'Ready'
+[4] 12:48:08 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:48:08 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:48:08 PM:  ShowStatusInfo: 'Refresh all finished'
+[3] 12:48:08 PM: OpenWorkspace took 00:00:08.8999629 to finish
+[2] 12:48:08 PM: Common repository is not available
+[4] 12:48:13 PM:  ShowStatusInfo: 'Ready'
+[4] 12:48:31 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:48:32 PM:  ShowStatusInfo: 'Ready'
+[4] 12:48:32 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:48:34 PM:  ShowStatusInfo: 'Ready'
+[4] 12:48:35 PM:  ShowStatusInfo: '1 object selected'
+[4] 12:48:35 PM:  ShowStatusInfo: 'Ready'
+[4] 12:48:37 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:48:37 PM:  ShowStatusInfo: 'Ready'
+[4] 12:48:37 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:48:37 PM:  ShowStatusInfo: 'Ready'
+[4] 12:48:37 PM:  ShowStatusInfo: 'Refresh view finished'
+[4] 12:48:42 PM:  ShowStatusInfo: 'Ready'
+[4] 1:36:22 PM:  ShowStatusInfo: '1 object selected'
+[4] 1:36:22 PM:  ShowStatusInfo: 'Ready'
+[4] 1:36:26 PM:  ShowStatusInfo: '1 object selected'
+[4] 1:36:26 PM:  ShowStatusInfo: 'Ready'
+[4] 1:36:27 PM:  ShowStatusInfo: '1 object selected'
+[4] 1:36:27 PM:  ShowStatusInfo: 'Ready'
+[4] 1:36:29 PM:  ShowStatusInfo: '1 object selected'
+[4] 1:36:29 PM:  ShowStatusInfo: 'Ready'
+[4] 1:36:32 PM:  ShowStatusInfo: '1 object selected'
+[4] 1:36:34 PM:  ShowStatusInfo: 'Ready'
+[4] 1:36:34 PM:  ShowStatusInfo: '1 object selected'
+[4] 1:36:39 PM:  ShowStatusInfo: 'Ready'
+[4] 1:36:39 PM:  ShowStatusInfo: '1 object selected'
+[4] 1:36:41 PM:  ShowStatusInfo: 'Ready'
+[4] 1:36:47 PM:  ShowStatusInfo: '1 object selected'
+[4] 1:36:47 PM:  ShowStatusInfo: 'Ready'
+[4] 1:36:48 PM:  ShowStatusInfo: '1 object selected'
+[4] 1:36:52 PM:  ShowStatusInfo: 'Ready'
+[4] 1:36:52 PM:  ShowStatusInfo: '1 object selected'
+[4] 1:36:54 PM:  ShowStatusInfo: 'Ready'
+[4] 1:36:54 PM:  ShowStatusInfo: '1 object selected'
+[4] 1:36:56 PM:  ShowStatusInfo: 'Ready'
+[4] 1:37:00 PM:  ShowStatusInfo: '1 object selected'
+[4] 1:37:00 PM:  ShowStatusInfo: 'Ready'
+[4] 1:37:06 PM:  ShowStatusInfo: '1 object selected'
+[4] 1:37:07 PM:  ShowStatusInfo: 'Ready'
+[4] 1:37:09 PM:  ShowStatusInfo: '1 object selected'
+[4] 1:37:09 PM:  ShowStatusInfo: 'Ready'
+[4] 1:37:13 PM:  ShowStatusInfo: '1 object selected'
+[4] 1:37:16 PM:  ShowStatusInfo: 'Ready'
+[3] 4:16:03 PM: Closing Workspace!
+[3] 4:16:03 PM: Log closed!
